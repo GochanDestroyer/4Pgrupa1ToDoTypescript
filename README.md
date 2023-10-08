@@ -1,5 +1,5 @@
 # Linki do projektów:
-* Kacper Biernat: -
+* Kacper Biernat: https://codesandbox.io/s/gracious-hamilton-p947jv
 * Mateusz Borkowski: -
 * Łukasz Borsuk: -
 * Bartłomiej Cierpiał: https://codesandbox.io/s/flamboyant-pascal-k74wf8
