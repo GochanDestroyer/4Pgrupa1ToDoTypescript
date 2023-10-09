@@ -4,7 +4,7 @@
 * Łukasz Borsuk: -
 * Bartłomiej Cierpiał: https://codesandbox.io/s/flamboyant-pascal-k74wf8
 * Małgorzata Dziewior: https://codesandbox.io/s/inspiring-poitras-xhtwqk
-* Piotr Gesehl: -
+* Piotr Gesehl: - https://codesandbox.io/s/zealous-solomon-35wzjt
 * Jakub Goździński: -
 * Jakub Irla: https://codesandbox.io/p/sandbox/dazzling-wave-x5s9kl
 * Jakub Jaśkiewicz: -
