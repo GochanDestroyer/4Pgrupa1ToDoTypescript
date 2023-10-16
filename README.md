@@ -1,7 +1,7 @@
 # Linki do projektów:
 * Kacper Biernat: https://codesandbox.io/s/gracious-hamilton-p947jv
 * Mateusz Borkowski: - https://codesandbox.io/s/frosty-danilo-l422k8
-* Łukasz Borsuk: -
+* Łukasz Borsuk: - https://codesandbox.io/s/objective-cloud-gpgrv6
 * Bartłomiej Cierpiał: https://codesandbox.io/s/flamboyant-pascal-k74wf8
 * Małgorzata Dziewior: https://codesandbox.io/s/inspiring-poitras-xhtwqk
 * Piotr Gesehl: - https://codesandbox.io/s/zealous-solomon-35wzjt
